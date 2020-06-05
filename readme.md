@@ -36,7 +36,6 @@ Makefile
 -"make" or "make all" command will make file 'alloc' and 'prov-rep'  
 	command line1: make all  
 	command line1: ./alloc  
-	  
 	command line2: ./prov-rep  
 
 res.txt  
